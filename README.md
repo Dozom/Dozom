@@ -12,7 +12,7 @@ Desarrollador Web Full Stack
 
 🚀 ¡Si estás interesado en que trabajemos juntos en proyectos relacionados con Angular y Laravel, no dudes en contactarme!
 
-¡Gracias por visitar mi perfil y espero conectar contigo pronto!
+¡Gracias por visitar mi perfil! Cóntactame para cualquier duda
 
 ✉️ Contáctame en: [danielnagercarpios@gmail.com](mailto:danielnagercarpios@gmail.com).
 
@@ -32,6 +32,6 @@ Desarrollador Web Full Stack
 </p>
 
 ### Redes Sociales
-<p align="left"> <a href="https://discord.com/users/Dozom#0298" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<p align="left">
 <a href="https://www.facebook.com/dani.nager.7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/dozom" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/daniel-nager-carpio-7a1738124" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 Daniel.
