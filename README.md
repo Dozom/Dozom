@@ -1,4 +1,4 @@
-¡Hola! 👋 Mi nombre es Daniel Nager
+¡Hola! 👋
 =============================
 
 Desarrollador Web Full Stack
