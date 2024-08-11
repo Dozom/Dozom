@@ -1,16 +1,14 @@
 ¡Hola! 👋
 =============================
 
-Desarrollador Web Full Stack
+Desarrollador Web Full Stack & QA Automation Engineer
 ------------------------------------
 
-👋 Desarrollador en formación con un enfoque especial en Angular y Laravel.
+👋 Desarrollador especializado en Angular y Laravel.
 
-💼 Actualmente, estoy explorando proyectos prácticos para aplicar mis conocimientos en Angular y Laravel, así como para mejorar mis habilidades en el desarrollo de aplicaciones web. Estoy emocionado por colaborar en proyectos que desafíen mis habilidades y me brinden la oportunidad de aprender de otros desarrolladores experimentados.
+💻 Aquí encontrarás algunos de mis proyectos en los que trabajo.
 
-💻 Aquí encontrarás proyectos donde estoy aplicando mis conocimientos en Angular y Laravel, así como algunos proyectos personales que estoy desarrollando para practicar y mejorar mis habilidades.
-
-🚀 ¡Si estás interesado en que trabajemos juntos en proyectos relacionados con Angular y Laravel, no dudes en contactarme!
+🚀 ¡Si estás interesado en que trabajemos juntos, no dudes en contactarme!
 
 ¡Gracias por visitar mi perfil! Cóntactame para cualquier duda
 
